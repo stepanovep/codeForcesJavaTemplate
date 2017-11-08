@@ -16,8 +16,6 @@ public class B {
     }
 
 
-
-    //Default template for all the codes
     static class InputReader {
         public BufferedReader reader;
         public StringTokenizer tokenizer;
@@ -52,7 +50,6 @@ public class B {
 
     }
 
-    //Main method for all the codes
     public static void main(String[] args) {
         InputStream inputStream = System.in;
         OutputStream outputStream = System.out;
